@@ -1,0 +1,197 @@
+Conlar Collegiate League
+EACOR,Eastern,CorridorA,,,,,,,,,,,
+HICOR,Historic,CorridorB,,,,,,,,,,,
+NORTH,Northern,Others,,,,,,,,,,,
+SCMLD,Sirlian,Mainland,,,,,,,,,,,
+HOME,Various,HomeIslands,,,,,,,,,,,
+MIX,MixA,MixB,,,,,,,,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,,,,
+# Eastern7/Corridor,,,,,,,,,,,,,
+TEAM,EACOR,CorridorA,Northern Channel,NC,72,ECTU,,,,,,,
+TEAM,EACOR,CorridorA,Drew Tech,DREW,60,SILV,,,,,,,
+TEAM,EACOR,CorridorA,North Conlar,NCON,71,ISL,,,,,,,
+TEAM,EACOR,CorridorA,North Langtor,NLNG,65,HCCC,,,,,,,
+TEAM,EACOR,CorridorA,Air Force,AIRF,73,ARMY,,,,,,,
+TEAM,EACOR,CorridorA,Marine,MARN,63,NAV,,,,,,,
+TEAM,EACOR,CorridorA,Western Langtor,WLNG,60,ASU,,,,,,,
+TEAM,EACOR,Eastern,East-Central Tech,ECTU,63,NC,,,,,,,
+TEAM,EACOR,Eastern,Silverford,SILV,61,DREW,,,,,,,
+TEAM,EACOR,Eastern,Islander,ISL,60,NCON,,,,,,,
+TEAM,EACOR,Eastern,Holy Crown,HCCC,55,NLNG,,,,,,,
+TEAM,EACOR,Eastern,Army,ARMY,74,AIRF,,,,,,,
+TEAM,EACOR,Eastern,Naval,NAV,74,MARN,,,,,,,
+TEAM,EACOR,Eastern,Aifin State,ASU,55,WLNG,,,,,,,
+# Historic/Corridor,,,,,,,,,,,,,
+TEAM,HICOR,Historic,Sacred Grove,GROV,52,VIL,,,,,,,
+TEAM,HICOR,Historic,Conlarian,CON,55,KON,,,,,,,
+TEAM,HICOR,Historic,Taiho CMI,TCMI,66,TBNE,,,,,,,
+TEAM,HICOR,Historic,Old Deymont,OLDD,65,NEWD,,,,,,,
+TEAM,HICOR,Historic,Border College,BC,55,GIR,,,,,,,
+TEAM,HICOR,Historic,Philron National,PNAT,67,YNAT,,,,,,,
+TEAM,HICOR,Historic,Central Rallai,CRAL,60,SEYR,,,,,,,
+TEAM,HICOR,CorridorB,Vilnaus,VIL,61,GROV,,,,,,,
+TEAM,HICOR,CorridorB,Konicar,KON,58,CON,,,,,,,
+TEAM,HICOR,CorridorB,Taiho B&E,TBNE,70,TCMI,,,,,,,
+TEAM,HICOR,CorridorB,New Deymont,NEWD,65,OLDD,,,,,,,
+TEAM,HICOR,CorridorB,Gireen,GIR,70,BC,,,,,,,
+TEAM,HICOR,CorridorB,Yonaseya National,YNAT,77,PNAT,,,,,,,
+TEAM,HICOR,CorridorB,Sey Royo,SEYR,86,CRAL,,,,,,,
+# Northern,,,,,,,,,,,,,
+TEAM,NORTH,Northern,Marison,MARI,72,OCEA,,,,,,,
+TEAM,NORTH,Northern,Marison State,MSU,60,STU,,,,,,,
+TEAM,NORTH,Northern,Marison CMI,MCMI,60,MAMU,,,,,,,
+TEAM,NORTH,Northern,Northern A&M,NAMU,70,SAMU,,,,,,,
+TEAM,NORTH,Northern,Taiho State,TSU,60,TAI,,,,,,,
+TEAM,NORTH,Northern,Southern Kenjolt,SKU,56,KENJ,,,,,,,
+TEAM,NORTH,Northern,Rutherford,RUTH,72,GOL,,,,,,,
+TEAM,NORTH,Others,Ocean Institute,OCEA,50,MARI,,,,,,,
+TEAM,NORTH,Others,Southern Taiho,STU,68,MSU,,,,,,,
+TEAM,NORTH,Others,Marison A&M,MAMU,55,MCMI,,,,,,,
+TEAM,NORTH,Others,Southern A&M,SAMU,80,NAMU,,,,,,,
+TEAM,NORTH,Others,Taiho,TAI,71,TSU,,,,,,,
+TEAM,NORTH,Others,Kenjolt,KENJ,80,SKU,,,,,,,
+TEAM,NORTH,Others,Gol,GOL,71,RUTH,,,,,,,
+# Sirlian Coast/Mainland,,,,,,,,,,,,,
+TEAM,SCMLD,Sirlian,Susan Collier,SUS,50,NAVA,,,,,,,
+TEAM,SCMLD,Sirlian,High Point,HIGH,55,NS,,,,,,,
+TEAM,SCMLD,Sirlian,Waystation,WAYS,50,NW,,,,,,,
+TEAM,SCMLD,Sirlian,Brigosa,BRIG,56,HEAY,,,,,,,
+TEAM,SCMLD,Sirlian,Hosha,HOSH,60,MART,,,,,,,
+TEAM,SCMLD,Sirlian,Hosha State,HSU,56,MAST,,,,,,,
+TEAM,SCMLD,Sirlian,South Langtor,SLNG,60,KRIV,,,,,,,
+TEAM,SCMLD,Mainland,Davis & Nava,NAVA,50,SUS,,,,,,,
+TEAM,SCMLD,Mainland,Noire Sirrau,NS,86,HIGH,,,,,,,
+TEAM,SCMLD,Mainland,Night Watch,NW,50,WAYS,,,,,,,
+TEAM,SCMLD,Mainland,O'Heay,HEAY,71,BRIG,,,,,,,
+TEAM,SCMLD,Mainland,Martius,MART,60,HOSH,,,,,,,
+TEAM,SCMLD,Mainland,Martius State,MAST,60,HSU,,,,,,,
+TEAM,SCMLD,Mainland,Koney River,KRIV,52,SLNG,,,,,,,
+# Home Islands/Southwestern,,,,,,,,,,,,,
+TEAM,HOME,Various,Rallai A&M,RAMU,73,RAIU,,,,,,,
+TEAM,HOME,Various,Rallai,RALL,72,WRU,,,,,,,
+TEAM,HOME,Various,Hosha Tech,HTEK,55,AIFN,,,,,,,
+TEAM,HOME,Various,Central Farsi,CFAR,65,EFAR,,,,,,,
+TEAM,HOME,Various,Rallai Tech,RTEK,65,PEAK,,,,,,,
+TEAM,HOME,Various,Kialocha,KIA,55,DRHU,,,,,,,
+TEAM,HOME,Various,Kallae,KALL,56,ZAI,,,,,,,
+TEAM,HOME,HomeIslands,Rallai A&I,RAIU,70,RAMU,,,,,,,
+TEAM,HOME,HomeIslands,Western Rallai,WRU,61,RALL,,,,,,,
+TEAM,HOME,HomeIslands,Aifin,AIFN,60,HTEK,,,,,,,
+TEAM,HOME,HomeIslands,Eastern Farsi,EFAR,61,CFAR,,,,,,,
+TEAM,HOME,HomeIslands,Devan's Peak,PEAK,55,RTEK,,,,,,,
+TEAM,HOME,HomeIslands,D. R. Hayton,DRHU,55,KIA,,,,,,,
+TEAM,HOME,HomeIslands,Zaiton,ZAI,50,KALL,,,,,,,
+# Mixed All Up,,,,,,,,,,,,,
+TEAM,MIX,MixA,North Farsi,NFAR,66,NFST,,,,,,,
+TEAM,MIX,MixA,Venture,VEN,58,ENT,,,,,,,
+TEAM,MIX,MixA,Airborne,AIRB,64,57TH,,,,,,,
+TEAM,MIX,MixA,NW Harbor,NWH,55,LTH,,,,,,,
+TEAM,MIX,MixA,Maya,MAYA,50,KAKO,,,,,,,
+TEAM,MIX,MixA,Northeastern,NE,55,KNOJ,,,,,,,
+TEAM,MIX,MixA,South Farsi,SFAR,65,SFCC,,,,,,,
+TEAM,MIX,MixB,North Farsi State,NFST,55,NFAR,,,,,,,
+TEAM,MIX,MixB,Enterprise,ENT,58,VEN,,,,,,,
+TEAM,MIX,MixB,The 57th,57TH,67,AIRB,,,,,,,
+TEAM,MIX,MixB,Lighthouse,LTH,50,NWH,,,,,,,
+TEAM,MIX,MixB,Kako,KAKO,50,MAYA,,,,,,,
+TEAM,MIX,MixB,Don Knoj,KNOJ,87,NE,,,,,,,
+TEAM,MIX,MixB,South Farsi Coastal,SFCC,60,SFAR,,,,,,,
+# Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
+# COACH,ALA,Nick Saban,65,90,90,90,90,Pro Style,Conservative,,,,
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+# OC,ALA,Mike Locksley,55,90,QB,Deep Pass,,,,,,,
+# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
+# DC,ALA,Kirby Smart,55,95,LB,Inside Run,,,,,,,
+# Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
+# PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
+# OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
+COACH,RALL,David Bradford,61,80,80,90,85,Balanced,Conservative,,,,
+COACH,WRU,Mark Nally,61,80,80,85,90,Balanced,Aggressive,,,,
+COACH,SAMU,Ishi Lakat,53,85,85,90,85,Spread,Balanced,,,,
+COACH,NS,Dylan Suzuki,42,85,90,85,85,Pro Style,Conservative,,,,
+OC,BRIG,Mark River,58,90,OL,Outside Run,,,,,,,
+DC,TCMI,Hogan Taylor,38,90,CB,Medium Pass,,,,,,,
+DC,ARMY,Paul Ernest,46,85,DL,Inside Run,,,,,,,
+PLAYER,SEYR,DL,Logan Pack,Sr,75,280,70,95,90,98,98,98,98
+PLAYER,SEYR,WR,Danny Morris,Jr,71,182,90,95,90,92,92,92,92
+PLAYER,KENJ,S,Jake Polaris,Sr,70,203,70,95,90,98,98,98,98
+PLAYER,KENJ,WR,Paul Barry,Jr,75,215,90,95,90,92,92,92,92
+PLAYER,NCON,DL,Frank Ransom,Sr,78,325,70,95,90,98,98,98,98
+PLAYER,NCON,OL,Saul Middleton,Jr,76,306,90,95,90,92,92,92,92
+PLAYER,EFAR,TE,Malik Kelly,Sr,77,262,70,95,90,98,98,98,98
+PLAYER,EFAR,LB,Miles Barelian,Jr,70,220,90,95,90,92,92,92,92
+PLAYER,RAMU,K,Thomas Ford,Sr,69,170,60,75,100,88,88,100,100
+PLAYER,RAMU,LB,Chris Veridian,Sr,73,225,60,85,95,96,90,90,90
+COACH,AIRF,Eric Procknow,41,80,75,75,75,Air Raid,Balanced,,,,
+COACH,AIRB,Martin Eagle,43,82,72,75,75,Air Raid,Balanced,,,,
+COACH,HEAY,David Martinez,49,80,85,80,80,Smashmouth,Balanced,,,,
+COACH,OLDD,Ivan Marcos,59,75,75,75,75,Smashmouth,Balanced,,,,
+COACH,ECTU,Terrence Olson,57,85,65,85,70,Spread,Conservative,,,,
+PLAYER,RALL,RB,Brett Burk,So,67,167,95,90,90,85,85,85,85
+PLAYER,RALL,WR,Malik Davis,Jr,77,200,90,90,90,91,91,91,91
+PLAYER,RALL,LB,Allen Triple,Sr,71,212,65,90,90,95,95,95,95
+PLAYER,WRU,QB,Jason Overbey,So,78,228,95,90,90,85,85,85,85
+PLAYER,WRU,OL,Harold Miranda,Jr,77,310,90,90,90,91,91,91,91
+PLAYER,WRU,LB,Vincent Christopher,Sr,74,245,65,90,90,95,95,95,95
+PLAYER,BRIG,RB,Doak Carmichael,So,69,180,95,90,90,85,85,85,85
+PLAYER,BRIG,QB,Mario Marina,Jr,75,217,90,90,90,91,91,91,91
+PLAYER,BRIG,WR,Jason Jackson,Sr,76,200,65,90,90,95,95,95,95
+PLAYER,TCMI,S,Allen Kelly,So,72,200,100,95,90,90,90,90,90
+PLAYER,TCMI,CB,James Duncan,Jr,72,188,100,95,90,95,95,95,95
+PLAYER,TCMI,QB,Mark Evers,Sr,75,205,80,100,85,70,98,90,80
+PLAYER,SAMU,LB,Roy Fulton,So,72,190,95,90,90,85,85,85,85
+PLAYER,SAMU,DL,Chris Fulton,Jr,74,275,90,90,90,91,91,91,91
+PLAYER,SAMU,QB,Jason Moss,Sr,73,195,65,90,90,90,98,90,90
+PLAYER,NS,QB,Tian Holloway,Jr,75,205,85,90,90,91,91,91,91
+PLAYER,NS,S,Phil Stark,Sr,70,187,65,90,90,95,95,95,95
+PLAYER,ARMY,CB,Quentin Morgan,Jr,68,172,85,90,90,91,91,91,91
+PLAYER,ARMY,TE,Evan Adams,Sr,74,266,65,90,90,95,95,95,95
+OC,YNAT,Zachary Elmine,54,90,QB,Short Pass,,,,,,,
+DC,STU,Quin Levine,54,90,S,Short Pass,,,,,,,
+PLAYER,NC,QB,Kevin Bonner,Jr,76,210,85,80,95,85,85,85,83
+PLAYER,NC,RB,Darius Alvin,Sr,71,210,90,90,90,75,85,80,80
+PLAYER,NC,RB,Sam Sanders,Jr,73,226,75,90,70,90,75,75,80
+PLAYER,NC,RB,Erick Smith,Sr,73,226,75,88,85,80,65,75,70
+PLAYER,NC,TE,Allen Wynn,So,75,260,80,90,80,80,85,85,95
+PLAYER,NC,TE,Tony Alton,Jr,75,242,80,75,85,80,72,77,90
+PLAYER,NC,WR,Joseph Millard,Sr,74,210,85,95,95,90,85,75,95
+PLAYER,NC,WR,Timothy Bates,So,72,185,85,86,85,85,81,85,80
+PLAYER,NC,WR,Oscar Hoft,Jr,73,193,75,80,80,80,80,75,85
+PLAYER,NC,OL,Kalen Davis,Sr,77,288,65,90,95,90,85,95,95
+PLAYER,NC,DL,Malik Jordan,Sr,75,275,65,90,95,91,85,95,90
+PLAYER,NC,LB,Jonathan Field,Sr,78,265,95,90,85,80,95,80,75
+PLAYER,NC,LB,Tony Thomas,Jr,71,200,71,80,85,80,80,90,90
+PLAYER,NC,LB,Nixon Arogu,Jr,73,230,90,70,80,80,80,75,90
+PLAYER,NC,CB,Caden Colton,Sr,70,188,95,75,95,80,95,95,95
+PLAYER,NC,S,Glen Payton,Jr,68,170,90,95,88,85,85,85,84
+PLAYER,NC,S,Ashton Wiley,Jr,68,185,90,88,95,85,85,80,88
+PLAYER,NC,CB,Jonathan Lucy,So,70,180,95,90,81,95,85,70,90
+PLAYER,NC,CB,Preston Taylor,Sr,71,180,80,80,80,80,85,80,80
+PLAYER,NC,CB,Allen Anders,So,70,175,70,65,85,75,75,75,78
+DC,KNOJ,Lawrence Cornfield,57,90,OL,Short Pass,,,,,,,
+OC,RUTH,Gami Joto,57,90,LB,Short Pass,,,,,,,
+PLAYER,ECTU,QB,Justin Cline,Sr,73,206,80,90,85,75,90,90,85
+PLAYER,ECTU,QB,Kiegan Townsend,So,78,210,85,75,90,87,81,75,65
+PLAYER,ECTU,RB,Wolfram Riggs,Sr,70,200,85,85,75,70,92,90,80
+PLAYER,ECTU,RB,Jim Evers,Jr,71,230,60,70,80,84,85,70,60
+PLAYER,ECTU,RB,Preston Mays,Jr,71,220,60,75,55,86,58,68,75
+PLAYER,ECTU,WR,Daniel Wynn,So,71,180,95,85,75,86,86,90,65
+PLAYER,ECTU,WR,Conrad Gulgo,Sr,74,205,65,70,70,75,90,68,75
+PLAYER,ECTU,WR,Kevin Parmer,Jr,74,200,76,85,90,80,70,60,85
+PLAYER,ECTU,TE,Nathan Jordan,Jr,76,240,55,75,95,65,65,70,90
+PLAYER,ECTU,K,Tim Baker,Sr,66,162,70,75,85,80,80,75,90
+PLAYER,ECTU,DL,Andy Melton,Jr,73,255,85,95,85,85,75,90,95
+PLAYER,ECTU,DL,Zaire Huff,Jr,74,265,90,90,60,90,75,90,70
+PLAYER,ECTU,DL,Zachary King,So,75,290,95,75,80,90,90,85,80
+PLAYER,ECTU,LB,Wiliam Rush,Sr,73,235,80,90,80,85,95,80,81
+PLAYER,ECTU,LB,Austin Cray,Sr,72,230,75,90,85,75,85,85,90
+PLAYER,ECTU,LB,Jason Sharp,So,71,230,90,75,85,70,80,80,90
+PLAYER,ECTU,CB,Henry Tikon,Sr,73,200,95,95,85,90,99,75,96
+PLAYER,ECTU,CB,Karo Piorun,Sr,69,185,95,80,85,95,90,88,93
+PLAYER,ECTU,CB,Jason Bell,So,72,215,90,80,90,80,80,60,80
+PLAYER,ECTU,CB,Levi Davu,Sr,70,193,50,70,70,62,80,62,80
+PLAYER,ECTU,S,Benjamin Wells,Jr,70,205,91,80,80,85,80,70,80
+PLAYER,ECTU,S,Franklin Carver,Jr,71,218,80,80,90,80,80,97,85
+PLAYER,ECTU,OL,Tim Caraway,Sr,77,310,75,85,98,80,60,90,90
+PLAYER,ALA,QB,Jalen Hurts,Jr,72,200,75,90,100,75,85,95,95
+END_FILE,,,,,,,,,,,,,
